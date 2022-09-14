@@ -10,7 +10,7 @@ function Page3() {
   const navigate = useNavigate();
 
   setTimeout(() => {
-    navigate('./rdsummit4', { replace: true });
+    navigate('/rdsummit4');
   },5000)
   return (
     <div className="page3-content">
