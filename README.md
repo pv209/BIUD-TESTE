@@ -24,7 +24,7 @@
 
 
  #abrir o projeto 
-$npm start  --- denro da pasta do projeto
+$npm start  #dentro da pasta do projeto
 ```
 ##Imagens do Projeto
 
