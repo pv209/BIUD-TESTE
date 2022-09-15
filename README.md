@@ -26,7 +26,9 @@
  #abrir o projeto 
 $npm start  #dentro da pasta do projeto
 ```
-##Imagens do Projeto
+
+
+<h2>Imagens do Projeto<h2>
 
 <img src="./src/Images/home.png" />
 
