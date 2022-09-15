@@ -20,7 +20,7 @@
  ```bash
  #instalar dependencias
  $ yarn  install
-
+```
 ##Imagens do Projeto
 
 <img src="./src/Images/home.png" />
