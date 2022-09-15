@@ -9,13 +9,13 @@ function Page3() {
   const { name } = useContext(Contextapi);
   const navigate = useNavigate();
 
-  setTimeout(() => {
-    navigate('/rdsummit4');
-  },5000)
+    setTimeout(() => {
+      navigate('/rdsummit4');
+    },5000)
   return (
-    <div className="page3-content">
+    <div className="page-main">
       <img src={progress} alt="barra de progresso" className="progress-bar" />
-      <div className="page3-container">
+      <div className="page-container">
         <img src={icon2} alt="emoji feliz" className="page3-icon" />
 
         <p className="page3-opening-text">Prazer, {name}!</p>

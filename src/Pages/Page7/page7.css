@@ -1,0 +1,58 @@
+.page7-text {
+  font-size: 24px;
+  font-weight: 700;
+  width: 400px;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.page7-button {
+  width: 448px;
+  height: 82px;
+  background: #d81656;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 16px;
+  border: none;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-basis: 100%;
+  margin-bottom: 10px;
+}
+
+.button-text {
+  text-align: start;
+}
+
+.page7-emoji-button {
+  margin-right: 10px;
+}
+
+.page7-button2 {
+  width: 449px;
+  height: 48px;
+  color: #000000;
+  text-align: center;
+  background-color: #f2f2f2;
+  border: none;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+
+@media (max-width: 540px) {
+    .page7-text {
+      width: 220px;
+    }
+
+    .page7-button{
+        width: 220px;
+    }
+
+    .page7-button2{
+        width: 200px;
+    }
+  }

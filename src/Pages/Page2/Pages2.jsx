@@ -17,13 +17,11 @@ function Page2() {
      saveName(name);
   }
   return (
-    <div className="main-page2">
+    <div className="page-main">
       <img src={progress} alt="progresso" className="progress-img" />
-      <div className="main-content">
-        <div className="container-icon">
+      <div className="page-container">
           <img src={icon} alt="icone" className="icon-img" />
-        </div>
-        <p className="page2-text">Como você quer ser chamado</p>
+        <p className="text-pink">Como você quer ser chamado</p>
         <input
           type="text"
           placeholder="Escreva seu nome"

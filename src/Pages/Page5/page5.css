@@ -1,0 +1,31 @@
+.progress-bar {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.page5-rocket {
+  width: 50px;
+}
+
+.page5-opening-text {
+  font-weight: 700;
+  font-size: 24px;
+  color: #d81656;
+  margin-bottom: 1px;
+  padding: 0;
+}
+
+.page5-text {
+  font-weight: 700;
+  font-size: 24px;
+  width: 450px;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 540px) {
+  .page5-text {
+    width: 220px;
+  }
+}
