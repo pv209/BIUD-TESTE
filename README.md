@@ -21,6 +21,10 @@
  ```bash
  #instalar dependencias
  $ yarn  install
+
+
+ #abrir o projeto 
+$npm start  --- denro da pasta do projeto
 ```
 ##Imagens do Projeto
 
