@@ -25,9 +25,7 @@
 
 <img src="./src/Images/home.png" />
 
-<img src="./src/Images/page1.png" />
-
-<img src="./src/Images/page2.png" />
+<img src="./src/Images/pag2.png" />
 
 <img src="./src/Images/page3.png" />
 
