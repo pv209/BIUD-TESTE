@@ -62,6 +62,7 @@ body{
 @media (max-width:540px) {
     .home-text{
         font-size: 18px;
+        width: 200px;
     }
 
     .home-button{

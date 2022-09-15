@@ -18,11 +18,15 @@ function Page6() {
           demonstre a experiência MIA
         </p>
         <input
-          type="text"
+          type="tel"
           className="page6-input"
           placeholder="Escreva seu WhatsApp"
+          onKeyPress={(event) => {
+            if (!/[0-9]/.test(event.key)) {
+              event.preventDefault();
+            }
+          }}   //stack overflow
         />
-        \
         <Link to="/rdsummit7">
           <button type="button" className="page2-button">
             Avançar
