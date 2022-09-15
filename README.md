@@ -15,7 +15,8 @@
  ```bash
  #instalar dependencias
  $ npm install
-<p>ou</p>
+
+   ou
 
  ```bash
  #instalar dependencias
