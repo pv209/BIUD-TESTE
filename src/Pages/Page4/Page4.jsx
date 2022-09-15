@@ -38,7 +38,7 @@ function Page4() {
           <img src={drogaria} alt="emoji drogaria" className="page4-btn-img" />
           Drogaria
         </button>
-        <button type="button" className="page4-btn" onClick={handleClick} value="loja de Roupas">
+        <button type="button" className="page4-btn" onClick={handleClick} value="loja de roupas">
           <img src={roupas} alt="emoji drogaria" className="page4-btn-img" />
           Loja de Roupas
         </button>
